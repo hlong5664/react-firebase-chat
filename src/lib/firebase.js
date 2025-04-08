@@ -4,7 +4,7 @@ import { getFirestore } from "firebase/firestore";
 import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
-    apiKey: import.meta.env.VITE_API_KEY,
+    apiKey: "AIzaSyCVQkq17DMZ5stpVB17_mXoVEvLyNWNWYM",
     authDomain: "reactchat-538fd.firebaseapp.com",
     projectId: "reactchat-538fd",
     storageBucket: "reactchat-538fd.firebasestorage.app",
